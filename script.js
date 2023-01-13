@@ -4,3 +4,4 @@ console.log('testfromhome');
 console.log('ewofewiofjewf');
 console.log('ewofewiofjewfaaaa');
 console.log('ewofewiofjewf22222222');
+// Пошел нахуй))
