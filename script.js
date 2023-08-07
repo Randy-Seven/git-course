@@ -6,3 +6,4 @@ console.log('ewofewiofjewfaaaa');
 console.log('ewofewiofjewf22222222');
 console.log('Привет, гит');
 // Пошел нахуй))
+// Сам пошел нахуй))
